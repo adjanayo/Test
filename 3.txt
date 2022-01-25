@@ -1,20 +1,14 @@
-cd /etc/postgresql/10/main/
-sudo nano postgresql.conf
-sudo su
-psql
-sudo su
-cd /home
-cd
-cd Bureau/BD-DATA/
-ls
-asciidoc TP1.adoc 
-brave-browser TP1.html 
-asciidoc TP1.adoc 
-nautilus ssh://amk@192.168.60.187
-reboot 
-nano /etc/hosts
-ps ax|grep postgres
-cd /etc/postgresql/10/main/
+
+
+
+
+Malik espèce d'individu
+
+
+
+
+
+
 sudo nano pg_hba.conf
 cd /etc/postgresql/10/main/
 sudo /etc/init.d/postgresql restart 
