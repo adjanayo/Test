@@ -1,0 +1,2000 @@
+cd /etc/postgresql/10/main/
+sudo nano postgresql.conf
+sudo su
+psql
+sudo su
+cd /home
+cd
+cd Bureau/BD-DATA/
+ls
+asciidoc TP1.adoc 
+brave-browser TP1.html 
+asciidoc TP1.adoc 
+nautilus ssh://amk@192.168.60.187
+reboot 
+nano /etc/hosts
+ps ax|grep postgres
+cd /etc/postgresql/10/main/
+sudo nano pg_hba.conf
+cd /etc/postgresql/10/main/
+sudo /etc/init.d/postgresql restart 
+psql -U alpha -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U alpha -h 127.0.0.1 mabase
+reboot 
+cd /etc/postgresql/10/main/
+sudo nano pg_hba.conf
+sudo /etc/init.d/postgresql restart 
+psql -U alpha -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U alpha -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U alpha -h 127.0.0.1 mabase
+psql -U user1 -h 127.0.0.1 mabase
+psql -U user3 -h 127.0.0.1 mabase
+psql -U user2 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user2 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user2 -h 127.0.0.1 mabase
+sudo nano /etc/hosts
+reboot 
+cd /etc/postgresql/10/main/
+sudo nano pg_hba.conf
+cd /etc/postgresql/10/main/
+sudo nano postgresql.conf
+sudo /etc/init.d/postgresql restart 
+psql -U user2 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user2 -h 127.0.0.1 mabase
+psql -U user3 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user3 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user3 -h 127.0.0.1 mabase
+psql -U user1 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user1 -h 127.0.0.1 mabase
+reboot 
+cd /etc/postgresql/10/main/
+sudo nono /etc/hosts
+sudo nano /etc/hosts
+sudo /etc/init.d/postgresql restart 
+psql -U user1 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user1 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user1 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user1 -h 127.0.0.1 mabase
+psql -U user3 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user3 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user3 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user3 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user3 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user3 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user1 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user1 -h 127.0.0.1 mabase
+psql -U user3 -h 127.0.0.1 mabase
+ls
+sudo nano pg_hba.conf
+sudo nano postgresql.conf
+sudo nano pg_hba.conf
+sudo nano pg_hba_2.conf
+sudo nano postgresql.conf
+reboot 
+cd /etc/postgresql/10/main/
+sudo nano pg_hba.conf
+psql -U user3 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user3 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user3 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user3 -h 127.0.0.1 mabase
+psql -U user1 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user3 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user3 -h 127.0.0.1 mabase
+sudo nano postgresql.conf
+cd /etc/postgresql/10/main/
+sudo nano pg_hba.conf
+cd /etc/postgresql/10/main/
+sudo nano postgresql.conf
+cd /etc/postgresql/10/main/
+psql -U user3 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user3 -h 127.0.0.1 mabase
+psql -U user1 -h 127.0.0.1 mabase
+psql -U user3 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user3 -h 127.0.0.1 mabase
+psql -U user1 -h 127.0.0.1 mabase
+psql -U user2 -h 127.0.0.1 mabase
+psql -U user3 -h 127.0.0.1 mabase
+psql -U user3  mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user3  mabase
+psql -U user1  mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user1  mabase
+psql -U user2  mabase
+psql -U user3  mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user1  mabase
+psql -U user2  mabase
+psql -U user3  mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user1  mabase
+psql -U user2  mabase
+psql -U user3  mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user1  mabase
+psql -U user2  mabase
+psql -U user3  mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user1 -h 127.0.0.1 mabase
+psql -U user2 -h 127.0.0.1 mabase
+psql -U user3 -h 127.0.0.1 mabase
+sudo /etc/init.d/postgresql restart 
+psql -U user1 -h 127.0.0.1 mabase
+nautilus ssh://192.168.60.130
+nautilus ssh://toyi@192.168.60.130
+psql -U user1 -h 127.0.0.1 mabase
+psql -U user3 -h 192.168.60.130 mabase
+nautilus ssh://toyi@192.168.60.130
+poweroff 
+asciidoc TP1.adoc 
+asciidoc TP1_2.adoc 
+asciidoc TP1.adoc 
+asciidoc TP1_2.adoc 
+psql -U user2 -h 192.168.60.131 mabase
+psql -U user2 -h 192.168.60.130 mabase
+psql -U user1 -h 192.168.60.104 mabase
+psql -U user2 -h 192.168.60.104 mabase
+psql -U user3 -h 192.168.60.104 mabase
+psql -U user1 -h 192.168.60.104 mabase
+psql -U user2 -h 192.168.60.104 mabase
+psql -U user3 -h 192.168.60.104 mabase
+psql -U user1 -h 192.168.60.104 mabase
+psql -U user2 -h 192.168.60.104 mabase
+psql -U user3 -h 192.168.60.104 mabase
+cd /etc/postgresql/10/main/
+sudo gedit postgresql
+sudo gedit postgres
+ls
+sudo gedit postgresql.conf
+sudo gedit pg_hba.conf
+psql -U user1 -h 192.168.60.104 mabase
+psql -U user2 -h 192.168.60.104 mabase
+xmllint test.xml --schema test.xsd --noout 
+apt-get install xm
+apt-get install xmllint
+sudo apt-get install xmllint
+apt-cache search xmllint
+sudo apt-get install libxml2-utils - Utilitaires XML
+apt-cache search xmllint
+sudo apt-get install libxml2-utils 
+sudo apt-get install texmaker
+poweroff 
+psql -U user1 -h 192.168.60.104 mabase
+psql -U user2 -h 192.168.60.104 mabase
+psql -U user3 -h 192.168.60.104 mabase
+psql -U user1 -h 192.168.60.104 mabase
+psql -U user2 -h 192.168.60.104 mabase
+psql -U user3 -h 192.168.60.104 mabase
+python3 main.py 
+nautilus ssh:amk@amk//192.168.60.187
+sudo nautilus ssh:amk@amk//192.168.60.187
+nautilus ssh://amk@192.168.60.187
+
+nautilus ssh://amk@192.168.60.187
+python3 lind_scap.py 
+sudo mkdir photoShop
+sudo su mkdir photoShop
+sudo mkdir photoShop
+sudo mkdir photoShop
+nautilus ssh://amk@192.168.60.187
+sudo apt-get install postgresql-doc-10 
+cd /etc/postgresql/10/main/
+ls
+sudo nano pg_hba.conf
+sudo nano postgresql.conf
+sudo /etc/init.d/postgresql restart 
+sudo su
+cd /etc/postgresql/10/main/
+sudo nano pg_hba.conf
+psql
+cd Bureau/BD-DATA/create_role/
+ls
+psql
+psql -U alkhashir -h 127.0.0.1 amk
+sudo /etc/init.d/postgresql restart 
+psql -U alkhashir -h 127.0.0.1 amk
+sudo /etc/init.d/postgresql restart 
+psql -U alkhashir -h 127.0.0.1 amk
+psql
+psql -U alkhashir -h 127.0.0.1 amk
+psql
+psql -U alkhashir -h 127.0.0.1 amk
+psql
+cd Bureau/BD-DATA/
+mkdir create_role
+la
+ls
+cd create_role/
+nano option_valide_until.sql
+ls
+nano option_valide_until.sql
+psql
+cd /etc/postgresql/10/main/
+sudo nano pg_hba.conf
+sudo apt install opennssh-server
+sudo apt-get install opennssh-server
+sudo apt-get install openssh-server
+xmllint galeri_d_art.xml --schema galeri_d_art.xsd --noout 
+sudo snap install teams
+cd /etc/postgresql/10/main/
+ls
+sudo nano pg_hba.conf
+ls
+cd Bureau/BD-DATA/
+nano reponse1
+ls
+nano reponse2 
+cd
+nano Bureau/BD-DATA/reponse1 
+sudo 
+sudo su
+psql 
+psql -U user1 -h 127.0.0.1 matable
+psql -U user1 matable
+psql -U amk matable
+psql -U amk amk
+psql -U amk matable
+psql -U amk amk
+psql -U user1 amk
+psql 
+psql -U user1 amk
+cd /etc/postgresql/10/main/
+ls
+sudo nano pg_hba.conf
+sudo /etc/init.d/postgresql restart 
+sudo nano pg_hba.conf
+sudo /etc/init.d/postgresql restart 
+sudo nano pg_hba.conf
+sudo /etc/init.d/postgresql restart 
+sudo nano pg_hba.conf
+sudo /etc/init.d/postgresql restart 
+sudo nano pg_hba.conf
+sudo /etc/init.d/postgresql restart 
+sudo nano pg_hba.conf
+sudo nano postgresql.conf
+sudo /etc/init.d/postgresql restart 
+sudo nano postgresql.conf
+sudo /etc/init.d/postgresql restart 
+sudo nano pg_hba.conf
+sudo /etc/init.d/postgresql restart 
+nano ddl_matable.sql 
+nautilus ssh://amk@192.168.60.189
+poweroff 
+nautilus ssh://amk@192.168.60.187
+nautilus ssh://amk@192.168.60.189
+cd /etc/postgresql/10/main/
+ls
+nano pg_hba.conf.save3
+psql 
+psql -U user1 amk
+psql -U user2 amk
+psql -U user1 amk
+psql 
+nautilus ssh://amk@192.168.60.189
+nano TP2.adoc 
+nano ddl_matable_2.sql 
+psql 
+psql -U user1 amk 
+psql -U user2 amk 
+psql -U user1 amk 
+psql -U user3 amk 
+psql -U user2 amk 
+psql -U user3 amk 
+psql 
+psql -U user2 amk 
+nano ddl_matable_2.sql 
+psql -U user2 amk 
+psql -U user3 amk 
+psql -U user2 amk 
+psql 
+psql -U user1 amk 
+nano ddl_matable.sql 
+asciidoc TP2.adoc 
+nautilus ssh://amk@192.168.60.189
+psql
+firefox /usr/share/doc/postgresql-doc-10/html/index.html&
+psql 
+nano ddl_compagnie.sql
+nautilus ssh://amk@192.168.60.157
+info
+man info
+man less
+nano text.txt
+less text.txt 
+nano text.txt
+head text.txt 
+tail text.txt 
+vi text.txt 
+vi test.py
+vim text.txt 
+man vi
+bash
+ls
+touch my_file.txt
+mkdir pratice
+ls pratice/
+cp my_file.txt pratice/
+ls pratice/
+head text.txt 
+less text.txt 
+man shutdown 
+info ifconfig
+man ifconfig 
+groups amk 
+groups enseignant 
+sudo usermod -aG sambashare amk
+\d
+psql 
+vim 
+nano ddl_disque.sql
+psql 
+nano ddl_disque.sql
+gedit ddl_disque.sql 
+nano ddl_disque.sql
+gedit ddl_disque.sql 
+psql 
+tail text.txt 
+cd Bureau/BD-DATA/Cursor/
+ls
+cd 
+ls -la
+vim .vimrc
+cd Bureau/BD-DATA/Cursor/
+vi fonction_cursor.sql 
+psql 
+javac test_input.java 
+javac SaisieClavier.java 
+java SaisieClavier
+java SaisieClavier.class
+java SaisieClavier 
+java SaisieClavier 1
+java SaisieClavier 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes controlleur.Game 
+psql 
+asciidoc Declaring_cursor_variables.adoc 
+ifconfig 
+psql 
+psql
+asciidoc Declaring_cursor_variables.adoc 
+asciidoc opening.adoc 
+python3
+asciidoc using.adoc 
+psql 
+javac TestStatic.java 
+psql 
+sudo usermod -aG sambashare amk
+groups enseignant 
+psq
+psql compagnie 
+psql compagnie 
+ls
+psql compagnie 
+psql 
+poweroff 
+sudo add-apt-repository universe && sudo apt-get update 
+sudo dpkg -i overgrive_3.3.*_all.deb
+sudo dpkg -i overgrive_3.3.*_all.dev
+sudo add-apt-repository universe && sudo apt-get update 
+sudo dpkg -i overgrive_3.3.*_all.dev
+sudo snap install overdrive
+sudo apt-get install npm git libgconf-2-4 -y
+git clone https://github.com/liberodark/ODrive
+cd ODrive/
+mpm install
+npm install
+cd ..
+sudo apt-get remove npm git libgconf-2-4 -y
+ls 
+rm ODrive/
+rm -r ODrive/
+ls 
+sudo apt-get install gnome-control-center
+sudo apt-get install gnome-online-accounts
+poweroff 
+reboot 
+gedit eleve_espace.py
+gedit eleve_espace.py&
+python3 eleve_espace.py 
+ls
+gedit Heritage.java&
+python3 eleve_espace.py 
+p u b l i c s t a t i c v o i d main ( S t r i n g [ ] a r g s ) {
+python3 eleve_espace.py 
+p u b l i c s t a t i c v o i d main ( S t r i n g [ ] a r g s ) {
+python3 eleve_espace.py 
+p u b l i c s t a t i c v o i d main
+python3 eleve_espace.py 
+gedit Entreprise.java&
+python3 eleve_espace.py 
+gedit Personne.java&
+python3 eleve_espace.py 
+gedit Mathematicien.java&
+python3 eleve_espace.py 
+gedit Informaticien.java&
+python3 eleve_espace.py 
+gedit GourouDeLInformatique.java&
+wim La_personne_juridique.txt
+wi La_personne_juridique.txt
+vim La_personne_juridique.txt
+javac -d classes Entreprise.java 
+javac -d classes GourouDeLInformatique.java 
+javac -d classes Heritage.java 
+javac -d classes Mathematicien.java 
+javac -d classes Heritage.java 
+javac -d classes Mathematicien.java 
+javac -d classes Entreprise.java 
+javac -d classes Heritage.java 
+java  classes Heritage.java 
+java  -d classes Heritage.java 
+java  -classpath classes Heritage 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Ti
+cd ..
+javac -d classes/ src/ src/controlleur/Game.java 
+javac -d classes/ src/ controlleur/Game.java 
+javac -d classes/ -sourcepath src src/ controlleur/Game.java 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes/ controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes/ controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes/ controlleur.Game 
+javac -sourcepath src -d classes src/controlleur/Game.java 
+java -classpath classes/ controlleur.Game 
+javac -d classes/ StringTutorial.java 
+java -classpath classes/ StringTutorial 
+javac -d classes/ StringTutorial.java 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+javac -d classes/ Tire.java 
+java -classpath classes/ Tire 
+shutdown -h 3 "dans 3 mm"
+shutdown -h "3" 
+shutdown -h "3"  "dans 3 mm"
+shutdown -H "3"  "dans 3 mm"
+shutdown -p "3"  "dans 3 mm"
+shutdown -h "3"  "
+shutdown -p "+3"  "dans 3 mm"
+shutdown -h "+3"  "dans 3 mm"
+poweroff 
+python3 appli.py 
+python3 module.py 
+python3 appli.py 
+poweroff 
+psql 
+firefox /usr/share/doc/postgresql-doc-10/html/index.html&
+pg_table
+psql
+python3 appli.py 
+psql
+python3 appli.py 
+poweroff 
+python3 appli.py 
+poweroff 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -classpath classes/ gestion_stocks.controlleur.Main 
+tree
+sudo apt install tree
+tree
+tree src/
+java -classpath classes/ gestion_stocks.controlleur.Main 
+brave-browser /usr/share/doc/postgresql-doc-10/html/index.html&
+poweroff 
+psql 
+poweroff 
+ifconfig -a
+ifconfig -all
+ifconfig /a
+ifconfig 
+poweroff 
+ping 8.8.8.8
+java -classpath classes/ gestion_stocks.controlleur.Main 
+cd ../../..
+ls
+java -classpath classes/ gestion_stocks.controlleur.Main 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -classpath classes/ gestion_stocks.controlleur.Main 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -classpath classes/ gestion_stocks.controlleur.Main 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -classpath classes/ gestion_stocks.controlleur.Main 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -classpath classes/ gestion_stocks.controlleur.Main 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -classpath classes/ gestion_stocks.controlleur.Main 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -classpath classes/ gestion_stocks.controlleur.Main 
+python3 ppcm.py 
+
+python3 ppcm.py 
+tree
+javac -d classes Formes.java 
+ls
+cd ..
+tree
+cd TP\ HERITAGE/
+tree
+javac -d classes -sourcepath src/ src/Forme.java 
+java -classpath classes/ Forme 
+javac -d classes -sourcepath src/ src/Formes.java 
+java -classpath classes/ Formes
+python3 ppcm.py 
+cd ..
+javac -d classes -sourcepath src/ src/Formes.java 
+java -classpath classes/ Formes
+javac -d classes -sourcepath src/ src/Formes.java 
+poweroff 
+ping 8.8.8.8
+javac -d classes -sourcepath src/ src/Formes.java 
+cd ..
+javac -d classes -sourcepath src/ src/Formes.java 
+java -classpath classes/ Formes
+javac -d classes -sourcepath src/ src/Formes.java 
+cd ..
+javac -d classes -sourcepath src/ src/Formes.java 
+java -classpath classes/ Formes
+javac -d classes -sourcepath src/ src/Formes.java 
+java -classpath classes/ Formes
+javac -d classes -sourcepath src/ src/Formes.java 
+ls
+reboot
+poweroff 
+psql 
+javac -d classes/ -cp classes/junit-platform-console-standalone-1.8.2.jar src/TestCalculatrice.java 
+javac -d classes/ -cp classes/junit-platform-console-standalone-1.8.2.jar -sourcepath src src/TestCalculatrice.java 
+java -classpath classes/ TestCalculatrice 
+java -jar classes/junit-platform-console-standalone-1.8.2.jar -classpath classes/TestCalculatrice
+java -jar classes/junit-platform-console-standalone-1.8.2.jar -classpath classes/TestCalculatrice.class 
+java -jar junit-platform-console-standalone-1.8.2.jar -cp classes/ --scan-class-path
+javac -d classes/ -cp classes/junit-platform-console-standalone-1.8.2.jar -sourcepath src src/TestCalculatrice.java 
+ls
+javac -d classes/ -cp junit-platform-console-standalone-1.8.2.jar -sourcepath src src/TestCalculatrice.java 
+java -jar junit-platform-console-standalone-1.8.2.jar -cp classes/ --scan-class-path
+tree 
+cd ..
+tree 
+javac -d classes/ -sourcepath src/ src/Formes.java 
+java -classpath classes/ Formes 
+javac -d classes/ -sourcepath src/ src/Formes.java 
+java -classpath classes/ Formes 
+nautilus ssh://amk@192.168.60.175
+poweroff 
+sudo apt install shotcut
+apt-cache search shotcut
+ping 8.8.8.8
+reboot 
+nautilus ssh://amk@192.168.60.175
+reboot 
+snap install sublime-text
+sudo apt install gimp
+poweroff 
+ping 8.8.8.8
+ifconfig 
+poweroff 
+reboot 
+poweroff 
+nautilus ssh://amk@192.168.60.175
+poweroff 
+nautilus ssh://amk@192.168.60.175
+sudo apt-get remove shotcut
+sudo apt remove shotcut
+dpkg --list
+apt-cache search shotcut
+sudo apt-get remove overgrive 
+sudo apt-get remove gimp
+sudo apt-get remove blender
+snap remove shotcut 
+sudo apt-get install python3-pyqt5
+pip3 install --user pyqt5 
+sudo apt-get install python3-pyqt5  
+sudo apt-get install pyqt5-dev-tools
+sudo apt-get remove pyqt5-dev-tools
+pip3  
+pip3 uninstall --user pyqt5 
+pip3 uninstall  pyqt5 
+pip3 uninstall --user pyqt5 
+python3 -v
+python3 --version
+sudo apt-get install pyqt5-dev-tools 
+sudo apt-get install g++
+sudo apt-get install c++
+sudo apt-get install qtcreator
+poweroff 
+tree 
+cd ..
+javac -d classes/ src/ src/Ordre.java 
+javac -d classes/ -sourcepath src/ src/Ordre.java 
+javac -d classes/ -sourcepath src/ src/Comparables.java 
+java -classpath classes/ Comparables 
+cd ..
+javac -d classes/ -sourcepath  src/ src/Comparables.java 
+java -classpath classes/ Comparables 
+javac -d classes/ -sourcepath  src/ src/Comparables.java 
+java -classpath classes/ Comparables 
+javac -d classes/ -sourcepath  src/ src/Comparables.java 
+java -classpath classes/ Comparables 
+cd ..
+ls
+tree 
+ls
+mkdir TD_TPD
+cd TD_TPD/
+mkdir src
+touch src/Animal.java
+tree 
+sublime-text.subl src/Animal.java&
+gedit src/Animal.java&
+tree 
+javac -d classes -sourcepath src/ src/Animal.java 
+javac -d classes -sourcepath src/ src/Boeuf.java 
+java -classpath classes/ Boeuf 
+javac -d classes -sourcepath src/ src/Boeuf.java 
+javac -d classes -sourcepath src/ src/nature/Nature.java 
+java -classpath classes/ Boeuf 
+java -classpath classes/ nature.Nature 
+javac -d classes -sourcepath src/ src/nature/Nature.java 
+java -classpath classes/ nature.Nature 
+javac -d classes -sourcepath src/ src/nature/Nature.java 
+java -classpath classes/ nature.Nature 
+javac -d classes -sourcepath src/ src/nature/Nature.java 
+java -classpath classes/ nature.Nature 
+javac -d classes -sourcepath src/ src/nature/Animaux.java 
+java -classpath classes/ nature.Animaux 
+javac -d classes -sourcepath src/ src/nature/Animaux.java 
+java -classpath classes/ nature.Animaux 
+javac -d classes -sourcepath src/ src/nature/Animaux.java 
+java -classpath classes/ nature.Animaux 
+poweroff 
+psql 
+poweroff 
+xmllint numero.xml --shema numero.xsd --noout 
+xmllint numero.xml --schema numero.xsd --noout 
+psql 
+nautilus ssh://amk@192.168.60.157
+javac -d classes -sourcepath src/ src/Rectangle.java 
+gedit test.sql&
+psql 
+ping 192.168.60.20
+ping 192.168.1.1
+cd ../..
+LS
+ls
+javac -d classes -sourcepath src/ src/listes/ComparaisonPerformances.java 
+java -classpath classes/ listes.ComparaisonPerformances 
+ls
+javac -d classes/ -sourcepath src/ src/interne/Test.java 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+javac -d classes/ -sourcepath src/ src/interne/Test.java 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+python3
+nautilus ssh://adjanayo@192.168.60.156
+psql 
+ping 8.8.8.8
+ping 192.168.60.11
+ping 192.168.60.20
+ping 192.168.1.1
+ping 8.8.8.8
+ifconfig 
+sudo dhcp -r
+sudo dhclient -r
+sudo dhclient 
+ifconfig 
+sudo dhclient -r
+sudo dhclient 
+ifconfig 
+ping 8.8.8.8
+ping free.fr
+sudo ifconfig 
+sudo ifconfig enp2s0 down
+sudo ifconfig 
+sudo ifconfig enp2s0 up
+sudo ifconfig 
+cd Bureau/
+ls IFNTI/
+mkdir IFNTI/gestion_projet
+cd IFNTI/gestion_projet
+mkdir depot_git
+cd depot_git/
+git config --global user.name "amk"
+git config --global user.email abdoulmalikkondi8@gmail.com
+git config --list 
+git config --global core.editor notepad++ 
+git config --merge.tool vimdiff
+git config --global merge.tool vimdiff
+git init 
+ls
+ls -a
+vim index.html
+firefox index.html&
+vim style.css
+vim index.html
+firefox index.html&
+vim index.html
+poweroff 
+sudo apt-get install git
+man chown
+man chmod 
+ping 8.8.8.8
+ifconfig 
+sudo dhclient -r
+
+ifconfig enp2s0 down
+sudo ifconfig enp2s0 down
+sudo ifconfig enp2s0 up
+ifconfig 
+sudo ifconfig enp2s0 down
+sudo dhclient -r
+sudo ifconfig enp2s0 up
+sudo dhclient -r
+sudo ifconfig enp2s0 down
+sudo ifconfig enp2s0 up
+sudo dhclient -r
+sudo ifconfig enp2s0 down
+sudo ifconfig enp2s0 up
+sudo dhclient -r
+ping 8.8.8.8
+nano /etc/apt/apt.conf.d/02proxy 
+sudo nano /etc/apt/apt.conf.d/02proxy 
+ping 8.8.8.8
+ifconfig 
+sudo ifconfig enp2s0 up
+sudo ifconfig enp2s0 down
+sudo ifconfig enp2s0 up
+sudo dhclient -r
+ping 8.8.8.8
+sudo ifconfig enp2s0 down
+sudo ifconfig enp2s0 up
+ping 8.8.8.8
+nautilus ssh://amk@192.168.60.190
+ifconfig 
+sudo dhclient -r
+ifconfig enp2s0 down
+sudo ifconfig enp2s0 down
+sudo ifconfig enp2s0 up
+ifconfig 
+ping 192.168.60.11
+ifconfig 
+sudo ifconfig enp2s0 down
+sudo ifconfig enp2s0 up
+ifconfig 
+ping 192.168.60.11
+psql airbase 
+ping 8.8.8.8
+psql airbase 
+ifconfig 
+sudo dhclient -r
+sudo ifconfig  enp2s0 down
+sudo ifconfig  enp2s0 up
+psql airbase 
+man shutdown 
+ifconfig 
+sudo snap install shotCut
+sudo snap install shotcut
+sudo snap install shot cut
+snap install shotcut
+sudo snap install shotcut --classic
+ls /etc/apt/apt.conf.d/
+nano /etc/apt/apt.conf.d/02proxy 
+sudo apt-get update 
+poweroff 
+javac -d classes/ sourcepath src/interne/Personne.java 
+javac -d classes/ sourcepath src src/interne/Personne.java 
+javac -d classes/ sourcepath src/ src/interne/ClasseInterne.
+javac -d classes/ -sourcepath src/interne/Personne.java 
+tree 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+javac -d classes/ -sourcepath src/ src/comparables/Comparable.java 
+javac -d classes/ -sourcepath src/ src/comparables/Comparables.java 
+javac -d classes/ -sourcepath src/ src/comparables/Convertible.java 
+poweroff 
+python3
+cd ../..
+tree 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+javac -d classes/ -sourcepath src/ src/interne/Main.java 
+java -classpath classes/ interne.Main 
+psql airbase 
+psql
+psql 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+ls
+touch text_ls.txt
+ls > text_ls.txt 
+gedit text_ls.txt&
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+cd ../..
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+javac -d classes/ -sourcepath src/ src/exception/AnneeNonValideExeption.java 
+javac -d classes/ -sourcepath src/ src/exception/DateNonValideExeption.java 
+javac -d classes/ -sourcepath src/ src/exception/AnneeNonValideExeption.java 
+javac -d classes/ -sourcepath src/ src/exception/DateNonValideExeption.java 
+javac -d classes/ -sourcepath src/ src/exception/AnneeNonValideExeption.java 
+javac -d classes/ -sourcepath src/ src/exception/DateNonValideExeption.java 
+javac -d classes/ -sourcepath src/ src/exception/AnneeNonValideExeption.java 
+javac -d classes/ -sourcepath src/ src/exception/DateNonValideExeption.java 
+javac -d classes/ -sourcepath src/ src/exception/AnneeNonValideExeption.java 
+javac -d classes/ -sourcepath src/ src/exception/DateNonValideExeption.java 
+javac -d classes/ -sourcepath src/ src/exception/DateNonValideException.java 
+javac -d classes/ -sourcepath src/ src/exception/AnneeNonValideExeption.java 
+javac -d classes/ -sourcepath src/ src/exception/DateNonValideException.java 
+javac -d classes/ -sourcepath src/ src/exception/AnneeNonValideExeption.java 
+javac -d classes/ -sourcepath src/ src/exception/AnneeNonValideException.java 
+javac -d classes/ -sourcepath src/ src/exception/JourEtMoisNonCorrespondantsException.java 
+javac -d classes/ -sourcepath src/ src/exception/JourNonValideException.java 
+javac -d classes/ -sourcepath src/ src/exception/JourEtMoisNonCorrespondantsException.java 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+javac -d classes/ -sourcepath src/ src/exception/MoisNonValideException.java 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+javac -d classes/ -sourcepath src/ src/interne/Personne.java 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+cd ../../..
+cd ../
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/flux/TestFluxCaractere.java 
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/flux/TestFluxOctet.java 
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxOctet 
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxCaractere 
+ls
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxCaractere entree sortie 
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxOctet 
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxOctet 73
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxOctet 73,7
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxOctet 12 13,4
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxOctet "12 13,4"
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxOctet "12 13"
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxOctet 
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/flux/TestFluxOctet.java 
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxOctet 
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/flux/TestFluxOctet.java 
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxOctet 
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxOctet "12 13"
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxOctet "12, 13"
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxOctet "12 13,0"
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxOctet "12, 13"
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxOctet "12 13"
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxOctet "12-13"
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxOctet 12-13
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxOctet 12 13
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/flux/TestFluxOctet.java 
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxOctet 12-13
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxCaractere entree sortie 
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/flux/TestFluxCaractere.java 
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxCaractere entree sortie 
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/flux/TestFluxCaractere.java 
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxCaractere entree sortie 
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxCaractere b sortie 
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/flux/TestFluxCaractere.java 
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxCaractere b sortie 
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/flux/TestFluxCaractere.java 
+java -classpath classes/ ifnti.dap.cours5.flux.TestFluxCaractere b sortie 
+sudo ifconfig enp2s0 down
+sudo ifconfig enp2s0 up
+ifconfig 
+sudo ifconfig enp2s0 up
+ifconfig 
+nautilus ssh://alhasan@192.168.60.165.
+nautilus ssh://alhasan@192.168.60.165
+nautilus ssh://alhasan@192.168.60.164
+cd ..
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+psql 
+poweroff 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+cd ..
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+javac -d classes/ -sourcepath src/ src/interne/ClasseInterne.java 
+java -classpath classes/ interne.ClasseInterne 
+python3
+ifconfig 
+sudo ifconfig enp2s0 down
+ifconfig 
+sudo ifconfig enp2s0 up
+ifconfig 
+sudo ifconfig enp2s0 down
+ifconfig 
+sudo ifconfig enp2s0 up
+sudo dhclient enp2s0 -r
+ifconfig 
+sudo ifconfig enp2s0 up
+ifconfig 
+sudo ifconfig enp2s0 down
+ifconfig 
+sudo ifconfig enp2s0 up
+ifconfig 
+sudo dhclient enp2s0 -r
+ifconfig 
+sudo ifconfig enp2s0 down
+sudo ifconfig enp2s0 up
+ifconfig 
+ping 192.168.1.1
+touch src/EcritureXml.java
+javac -d classes -sourcepath src/ src/EcritureXml.java 
+java -classpath classes/ EcritureXml 
+javac -d classes -sourcepath src/ src/EcritureXml.java 
+java -classpath classes/ EcritureXml 
+javac -d classes -sourcepath src/ src/EcritureXml.java 
+java -classpath classes/ EcritureXml 
+javac -d classes -sourcepath src/ src/EcritureXml.java 
+java -classpath classes/ EcritureXml 
+javac -d classes -sourcepath src/ src/EcritureXml.java 
+java -classpath classes/ EcritureXml 
+javac -d classes -sourcepath src/ src/EcritureXml.java 
+java -classpath classes/ EcritureXml 
+javac -d classes -sourcepath src/ src/EcritureXml.java 
+java -classpath classes/ EcritureXml 
+javac -d classes -sourcepath src/ src/EcritureXml.java 
+java -classpath classes/ EcritureXml 
+javac -d classes -sourcepath src/ src/EcritureXml.java 
+java -classpath classes/ EcritureXml 
+ifconfig 
+sudo apt install tesclave-lon-frence
+ls
+cd ../..
+ls
+cd ../..
+cd ..
+ls
+javac -d classes/ -sourceptah src/ src/ifnti/dap/cours5/serialisation/ExempleSerialisationObjetsEcriture.java 
+ls src/ifnti/dap/cours5/serialisation/ExempleSerialisationObjetsEcriture.java 
+ls src/ifnti/dap/cours5/serialisation/
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/serialisation/ExempleSerialisationObjetsEcriture.java 
+ls src/ifnti/dap/cours5/serialisation/ExempleSerialisationObjetsLecture.java 
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/serialisation/ExempleSerialisationObjetsLecture.java 
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/serialisation/ExempleSerialisationObjetsEcriture.java 
+java -classpath classes/ ifnti.dap.cours5.serialisation.ExempleSerialisationObjetsEcriture fichierEcriture.txt
+java -classpath classes/ ifnti.dap.cours5.serialisation.ExempleSerialisationObjetsEcriture fichierEcriture.pdf
+java -classpath classes/ ifnti.dap.cours5.serialisation
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/serialisation/Voiture.java 
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/serialisation/Main.java 
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/serialisation/Voiture.java 
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/serialisation/Main.java 
+java -classpath classes/ ifnti.dap.cours5.serialisation.Main 
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/serialisation/Main.java 
+java -classpath classes/ ifnti.dap.cours5.serialisation.Main 
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/serialisation/Main.java 
+java -classpath classes/ ifnti.dap.cours5.serialisation.Main 
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/serialisation/Main.java 
+java -classpath classes/ ifnti.dap.cours5.serialisation.Main 
+javac -d classes/ -sourcepath src/ src/ifnti/dap/cours5/serialisation/Main.java 
+java -classpath classes/ ifnti.dap.cours5.serialisation.Main 
+python3
+poweroff 
+poweroff -i
+sudo poweroff 
+shutdown 
+psql
+xmllint gestion.xml --schema gestionDeStock.xsd --noout 
+nautilus ssh://Alhasan-Daiki@192.168.60.104
+psql 
+nautilus ssh://alhasan@192.168.60.104
+sudo apt-get install git
+git config --global user.name amk
+git config --global user.email abdoulmalikkondi8@gmail.com
+git config --list 
+git config --global core.editor notepad++
+git config --global merge.tool vimdiff
+git init 
+cd depot/
+git add index.html index.css 
+git commit 
+git commit -m "Ajout des fichiers html et css de base"
+git remote add origin https://github.com/amk-7/depotDistant.git
+git branch -M main
+git branch -u origin main 
+git push -u origin main 
+git add index.html 
+git commit -m "modification de la balise H1"
+git push origin main 
+git branch 
+git branch image
+git branch 
+git checkout image 
+git branch 
+touch index.css
+vi index.css 
+touch index.html 
+vi index.html 
+git checkout main 
+git branch 
+git status 
+git checkout image 
+git commit -m "ajout de la balise image"
+git status 
+git add index.html 
+git commit -m "ajout de la balise image"
+git checkout main 
+git merge image 
+git push -u origin main 
+git log 
+psql
+md5sum postgresql-12.9.tar.gz postgresql-12.3.tar.gz.md5 
+sudo mkdir /opt/installation/pgsql
+cd opt/
+sudo mkdir installation/pgsql
+md5sum postgresql-12.9.tar.gz postgresql-12.3.tar.gz.md5 
+md5sum postgresql-12.9.tar.gz postgresql-12.9.tar.gz
+md5sum postgresql-12.9.tar.gz postgresql-12.9.tar.gz.md5 
+md5sum postgresql-12.9.tar.gz
+md5sum postgresql-12.9.tar.gz.md5 
+snaptic
+sudo apt-get install synaptic
+synaptic gcc
+sudo apt-get install g++-8
+apt-cache search libreadline
+sudo apt-get install libreadline
+apt-cache search libreadline
+sudo apt-get install libreadline-dev
+sudo apt-get install zlib-dev
+sudo apt install zlib
+sudo apt install zlib1g
+sudo apt install zlib1g-dev
+sudo mv postgresql-12.9.tar.gz /opt/installation/pgsql/
+sudo mv postgresql-12.9.tar.gz.md5 /opt/installation/pgsql/
+ls
+cd postgresql-12.9/
+./configure 
+./configure  --without-readline
+sudo apt-get update 
+./configure  
+sudo apt-get update 
+./configure  
+sudo apt-get update 
+./configure  
+make 
+sudo make install-world
+sudo adduser postgres2
+ls
+cd ..
+ls
+mkdir data
+ls
+ls -a data/
+ls -a
+sudo sysctl -a |grep kernel.shm
+chown -R postgreS2 Bureau/IFNTI/BD-DATA/installation/pgsql/
+chown -R postgres2 Bureau/IFNTI/BD-DATA/installation/pgsql/
+sudo chown -R postgres2 Bureau/IFNTI/BD-DATA/installation/pgsql/
+su postgres2
+cd Bureau/IFNTI/BD-DATA/installation/pgsql/
+su postgres2
+sudo adduser --system postgres3
+su postgres3
+sudo mkdir allo
+sudo rmdir al
+cd
+sudo mkdir installation/pgsql
+sudo mkdir installation
+sudo mkdir installation/pgsql
+ls
+cd /opt/
+sudo mkdir -p  installation/pgsql
+ls
+cd installation/pgsql/
+ls
+sudo apt-get install thunderbrid
+xmllint gestion.xml --schema gestionDeStock.xsd 
+xmllint gestion.xml --schema gestionDeStock.xsd --nount
+xmllint gestion.xml --schema gestionDeStock.xsd --noot
+xmllint gestion.xml --schema gestionDeStock.xsd --noout 
+psql 
+psql -U amkJava -h 127.0.0.1 amk
+cd /etc/postgresql/10/main/
+ls
+sudo nano pg_hba.conf
+sudo /etc/init.d/postgresql restart 
+sudo nano pg_hba.conf
+sudo /etc/init.d/postgresql restart 
+xmllint gestion.xml --schema gestionDeStock.xsd --noout 
+0
+xmllint gestion.xml --schema gestionDeStock.xsd --noout 
+psql
+psql -U amk -h 127.0.0.1 amk
+cd ..
+psql
+sudo su
+psql -U amk -h 127.0.0.1 amk
+javac -cp classes:../postgresql-42.2.18.jar -sourcepath src/ src/TestJDBC.java -d classes/
+java -cp classes:../postgresql-42.2.18.jar TestJDBC
+javac -cp classes:../postgresql-42.2.18.jar -sourcepath src/ src/TestJDBC.java -d classes/
+java -cp classes:../postgresql-42.2.18.jar TestJDBC
+PSQL
+psql
+ls
+psql
+javac -cp classes:../postgresql-42.2.18.jar -sourcepath src/ src/TestJDBC.java -d classes/
+java -cp classes:../postgresql-42.2.18.jar TestJDBC
+psql testjdbc 
+javac -cp classes:../postgresql-42.2.18.jar -sourcepath src/ src/TestJDBC.java -d classes/
+java -cp classes:../postgresql-42.2.18.jar TestJDBC
+psql testjdbc 
+javac -cp classes:../postgresql-42.2.18.jar -sourcepath src/ src/TestJDBC.java -d classes
+java -cp classes:../postgresql-42.2.18.jar TestJDBC
+psql testjdbc 
+psql -U amk -h 127.0.0.1 amk
+psql -U amk -h 127.0.0.1 testjdbc 
+sudo nano /etc/postgresql/10/main/postgresql.conf
+sudo nano /etc/postgresql/10/main/pg_hba.conf
+psql -U amk  testjdbc 
+psql -U amk -h 127.0.0.1 testjdbc 
+psql -U amk -h 127.0.0.1 testjdb
+psql -U amk -h 127.0.0.2 testjdbc 
+sudo nano /etc/postgresql/10/main/pg_hba.conf
+ping 8.8.8.8
+make uninstall
+. /../postgresql-12.9/config
+cd /
+cd ..
+ls
+cd opt/
+md5sum postgresql-12.9.tar.gz
+tar -xvf postgresql-12.9.tar.gz 
+sudo tar -xvf postgresql-12.9.tar.gz 
+tree 
+cd ..
+tree 
+ls
+cd installation/
+ls
+sudo mkdir pgsql/bin
+sudo mkdir pgsql/share
+sudo mkdir pgsql/doc
+sudo mkdir pgsql/etc
+ls pgsql/
+sudo mkdir pgsql/resultat-config
+ls pgsql/
+cd pgsql/resultat-config/
+sudo rmdir pgsql/resultat-config
+cd ..
+sudo rmdir pgsql/resultat-config
+sudo rmdir resultat-config/
+cd ..
+ls
+sudo mkdir pgsql/resultat-config
+cd pgsql/
+ls
+cd postgresql-12.9/
+ls
+This script will run a number of tests to determine values for
+./configure --with-pgport=5435 --exec-prefix=../../../installation/pgsql --bindir=../../../installation/pgsql/bin/
+./configure --with-pgport=5435 
+./configure --exec-prefix=../
+./configure --exec_prefix=../
+./configure --with-pgport=5435 --exec-prefix=../../pgsql/
+./configure --with-pgport=5435 --exec-prefix=/opt/installation/pgsql/
+./configure --with-pgport=5435 --exec-prefix=/opt/installation/pgsql/ --bindir=/opt/installation/pgsql/bin/ --localedir=/opt/installation/pgsql/share/ --docdir=/opt/installation/pgsql/doc/ --sysconfdir=/opt/installation/pgsql/etc/
+sudo ./configure --with-pgport=5435 --exec-prefix=/opt/installation/pgsql/ --bindir=/opt/installation/pgsql/bin/ --localedir=/opt/installation/pgsql/share/ --docdir=/opt/installation/pgsql/doc/ --sysconfdir=/opt/installation/pgsql/etc/
+make
+sudo ./configure --with-pgport=5435 --prefix=/opt/installation/pgsql/ --exec-prefix=/opt/installation/pgsql/ --bindir=/opt/installation/pgsql/bin/ --localedir=/opt/installation/pgsql/share/ --docdir=/opt/installation/pgsql/doc/ --sysconfdir=/opt/installation/pgsql/etc/
+make
+javac -cp src/postgresql-42.2.18.jar -sourcepath  src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes/:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+psql gestion_stock ;
+javac -cp src/postgresql-42.2.18.jar -sourcepath  src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes/:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+javac -cp src/postgresql-42.2.18.jar -sourcepath  src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes/:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+javac -cp src/postgresql-42.2.18.jar -sourcepath  src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes/:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+javac -cp src/postgresql-42.2.18.jar -sourcepath  src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes/:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+javac -cp src/postgresql-42.2.18.jar -sourcepath  src/ src/gestion_stocks/controlleur/Main.java -d classes/ 
+java -cp classes/:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+psql 
+cd ../..
+cd ..
+javac -d classes/ -sourcepath src/ src/gestion_stocks/modele/dao/ProduitDAO.java 
+psql
+psql gestion_stock 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/modele/dao/ProduitDAO.java 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -classpath classes/ gestion_stocks.controlleur.Main 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -classpath classes/ gestion_stocks.controlleur.Main 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -classpath classes/ gestion_stocks.controlleur.Main 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -classpath classes/ gestion_stocks.controlleur.Main 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/modele/dao/ProduitDAO.java 
+tree 
+ls
+tree src/
+javac -d classes/ -sourcepath src/ src/gestion_stocks/modele/dao/ProduitDAO.java
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -classpath classes/ gestion_stocks.controlleur.Main 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -classpath classes/ gestion_stocks.controlleur.Main 
+psql gestion_stock 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -classpath classes/ gestion_stocks.controlleur.Main 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -classpath classes/ gestion_stocks.controlleur.Main 
+ls
+ls src/
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+psql gestion_stock 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+psql gestion_stock 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+psql gestion_stock 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+psql gestion_stock 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+psql gestion_stock 
+psql -U amk -h 127.0.0.1 gestion_stock 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java -d classes/
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java -d classes/
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java -d classes/
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+psql
+psql gestion_stock 
+sudo apt-get install arduino
+ping 8.8.8.8
+sudo apt-get remove arduino
+chmod +x install.sh 
+./install.sh 
+sudo ./install.sh 
+ls
+ls /var
+git clone https://github.com/amk-7/depotDistant.git
+git remote add dd https://github.com/amk-7/depotDistant.git
+git pull dd main
+git branch 
+git clone https://github.com/OpenClassrooms-Student-Center/7162856-G-rez-Git-et-GitHub.git
+git remote add dd https://github.com/OpenClassrooms-Student-Center/7162856-G-rez-Git-et-GitHub.git
+git remote add ddoc https://github.com/OpenClassrooms-Student-Center/7162856-G-rez-Git-et-GitHub.git
+git pull ddoc main
+git branch proc 
+git branch 
+git branch proc 
+git checkout proc 
+git status 
+git add index.html 
+git add index.css 
+git status 
+git commit 
+git commit -m 'modif du fichier index.html'
+git status 
+git push 
+git checkout main 
+git branch 
+git merge proc 
+git status 
+git push 
+git pull ddoc main 
+git branch 
+git branch proc 
+git checkout proc 
+git branch 
+ls
+git checkout main 
+cd 7162856-G-rez-Git-et-GitHub/
+git branch 
+ls
+git branch proc
+git pull ddoc main
+cd ..
+cd gitHub/
+git clone https://github.com/OpenClassrooms-Student-Center/7162856-G-rez-Git-et-GitHub.git
+git remote ddoc https://github.com/OpenClassrooms-Student-Center/7162856-G-rez-Git-et-GitHub.git
+git remote add ddoc https://github.com/OpenClassrooms-Student-Center/7162856-G-rez-Git-et-GitHub.git
+git remote add ddoc1 https://github.com/OpenClassrooms-Student-Center/7162856-G-rez-Git-et-GitHub.git
+git pull ddoc1 main
+git branch 
+ls
+git branch proc1
+git checkout proc1
+ls
+cd 7162856-G-rez-Git-et-GitHub/
+ls
+git branch 
+git branch proc
+git clone https://github.com/OpenClassrooms-Student-Center/7162856-G-rez-Git-et-GitHub.git
+git remote add ddoc https://github.com/OpenClassrooms-Student-Center/7162856-G-rez-Git-et-GitHub.git
+ls
+git pull ddoc main
+git branch 
+git checkout proc 
+git status 
+git add
+git add index.html 
+git add style.css 
+git commit index.html style.css 
+git commit index.html style.css 'modif d'index.html'
+git commit index.html style.css 'modif du fichier index.html'
+git commit index.html  'modif du fichier index.html'
+git commit   'modif du fichier index.html'
+git commit   "modif du fichier index.html"
+git commit -m "modif du fichier index.html"
+git push 
+git pull 
+git pull main
+cd ../..
+git branch 
+ls -al
+ifconfig 
+git branch 
+mkdir test
+cd test/
+git branch 
+git clone https://github.com/Alhassan-Daiki/Premierprojet.git
+git remote add ra https://github.com/Alhassan-Daiki/Premierprojet.git
+ls
+git branch 
+cd Premierprojet/
+git branch 
+git branch modification
+git checkout modification 
+git branch main 
+git branch 
+git branch main 
+git checkout main 
+git branch 
+git pull ra main
+cd ..
+git clone https://github.com/Alhassan-Daiki/Premierprojet.git
+cd Premierprojet/
+ls
+git remote add ra https://github.com/Alhassan-Daiki/Premierprojet.git
+git pull ra main
+git branch 
+ls
+git status 
+git add index.html 
+git status 
+git commit -m "modification du titre"
+git status 
+git push 
+javac -d classes/ -sourcepath src/ src/XPathParserDemo.java 
+java -classpath classes/ com.tutorialspoint.xml.XPathParserDemo 
+javac -d classes/ -sourcepath src/ src/XPathParserDemo.java 
+java -classpath classes/ com.tutorialspoint.xml.XPathParserDemo 
+java -classpath classes/ XPathParserDemo 
+javac -d classes/ -sourcepath src/ src/XPathParserDemo.java 
+java -classpath classes/ XPathParserDemo 
+javac -d classes/ -sourcepath src/ src/XPathParserDemo.java 
+java -classpath classes/ XPathParserDemo 
+javac -d classes/ -sourcepath src/ src/XPathParserDemo.java 
+java -classpath classes/ XPathParserDemo 
+xmllint gestionDeStock.xml --schema gestionDeStock.xsd 
+xmllint gestionDeStock.xml --schema gestionDeStock.xsd --noout 
+xmllint gestion.xml --schema gestionDeStock.xsd --noout 
+cd postgresql-12.9/
+ls
+make uninstall
+sudo rm -r bin
+ls
+cd ..
+sudo rm -r bin
+sudo rm -r doc/
+sudo rm -r etc/
+sudo rm -r resultat-config/
+sudo rm -r share/
+sudo rm -r postgresql-12.9/
+man user
+man man
+man adduser
+ls -al
+sudo tar -xvf postgresql-12.9.tar.gz 
+sudo ./configure
+chown x amk
+chown +x amk
+ls
+cd postgresql-12.9/
+chown +x amk
+chmod +x amk
+chmod +x configure
+sudo chmod +x configure
+./configure 
+make install
+make
+chown +x amk
+sudo chmod +x configure
+mv postgresql-12.9.tar.gz /usr/local/pgsql_archiver/
+sudo mv postgresql-12.9.tar.gz /usr/local/pgsql_archiver/
+ping 8.8.8.8
+sudo mkdir pgsql_archiver
+ls
+sudo tar -xvf postgresql-12.9.tar.gz 
+ls
+cd postgresql-12.9/
+sudo chmod +x configure
+cd ..
+chmod +x postgresql-12.9
+sudo chmod +x postgresql-12.9
+cd postgresql-12.9/
+ls
+ls -al
+cd ..
+sudo chmod +x postgresql-12.9
+cd postgresql-12.9/
+./configure --with-pgport=5435
+ls
+ls -al
+make
+su
+sudo su
+sudo make install
+adduser postgres2
+sudo adduser postgres2
+ls
+ls
+sudo rm -r postgresql-12.9
+sudo tar -xvf postgresql-12.9.tar.gz 
+cd postgresql-12.9/
+ls
+chmod +rx config
+sudo chmod +rx config
+chown amk config
+sudo chown amk config
+sudo chown amk configure
+./configure --with-pgport=5436
+make
+sudo make install-world
+sudo adduser postgres1
+sudo sysct1 -a |grep kernel.shm |sort
+sudo sysctl -a |grep kernel.shm |sort
+mkdir /usr/local/pgsql_archiver/data
+sudo mkdir /usr/local/pgsql_archiver/data
+su postgres1
+sudo make uninstall
+cd ..
+ls
+sudo rm -r pgsql_archiver/
+tar -xvf postgresql-12.9.tar.gz 
+cd postgresql-12.9/
+ls
+./configure 
+make
+sudo make install-world
+deluser postgres2
+sudo deluser postgres2
+cd ..
+ls
+rm -r psql/
+sudo rm -r psql/
+sudo tar -xvf postgresql-12.9.tar.gz 
+cd psql/
+cd ..
+mv psql/ pgsql
+cd ..
+cd initialisation/
+sudo chmod +rx pgsql/
+cd pgsq
+ls
+sudo chmod +x configure
+sudo chmod +x *
+chmod o+rx configure
+sudo chmod o+rx configure
+pg_config --config
+pg_config --configure
+ls
+cd ../..
+cd installation1
+cd installation_1/
+tree
+cd pgsql/
+cd resultat-config/
+./../postgresql-12.9/configure --prefix=/home/amk/Bureau/IFNTI/BD-DATA/installation_1/pgsql/ --with-pgport=5435 --exec-prefix=/home/amk/Bureau/IFNTI/BD-DATA/installation_1/pgsql/ --bindir=/home/amk/Bureau/IFNTI/BD-DATA/installation_1/pgsql/bin/ --localedir=/home/amk/Bureau/IFNTI/BD-DATA/installation_1/pgsql/src/ --docdir=/home/amk/Bureau/IFNTI/BD-DATA/installation_1/pgsql/doc/ --sysconfdir=/home/amk/Bureau/IFNTI/BD-DATA/installation_1/pgsql/etc/
+tar -xvf postgresql-12.9.tar.gz 
+mv postgresql-12.9.tar.gz pgsql
+mv postgresql-12.9 pgsql 
+cd pgsql/
+./configure --prefix=/home/amk/Bureau/IFNTI/BD-DATA/installation_1/pgsql/ --with-pgport=5435 --exec-prefix=/home/amk/Bureau/IFNTI/BD-DATA/installation_1/pgsql/ --bindir=/home/amk/Bureau/IFNTI/BD-DATA/installation_1/bin/ --localedir=/home/amk/Bureau/IFNTI/BD-DATA/installation_1/pgsql/src --docdir=/home/amk/Bureau/IFNTI/BD-DATA/installation_1/pgsql/doc/ --sysconfdir=/home/amk/Bureau/IFNTI/BD-DATA/installation_1/etc/
+tar -xvf
+python3 objet.py 
+python3
+man adduser
+man useradd 
+sudo su postgres2
+md5sum postgresql-12.9.tar.gz
+tar -xvf postgresql-12.9.tar.gz 
+tar -xvf postgresql-12.9.tar.gz 
+mv postgresql-12.9 pgsql
+cd pgsql/
+./configure 
+cd ..
+tar -xvf postgresql-12.9.tar.gz 
+mv postgresql-12.9 pgsql
+cd pgsql/
+./configure --with-pgport=5435
+make
+sudo make install
+man adduser
+sudo adduser --system postgres2
+cd ..
+ls
+chown -R postgres2 initialisation/pgsql/
+sudo chown -R postgres2 initialisation/pgsql/
+sudo postgres2
+su postgres2
+sudo su
+tar -xvf postgresql-12.9.tar.gz 
+mv postgresql-12.9 pgsql
+./configure --pref --with-pgport=5437 
+cd  pgsql/
+./configure --prefix=/home/amk/Bureau/IFNTI/BD-DATA/installation/pgsql/ --exec-prefix=/home/amk/Bureau/IFNTI/BD-DATA/installation/pgsql/ --bindir=/home/amk/Bureau/IFNTI/BD-DATA/installation/bin/ --localedir=/home/amk/Bureau/IFNTI/BD-DATA/installation/pgsql/src --docdir=/home/amk/Bureau/IFNTI/BD-DATA/installation/pgsql/doc/ --sysconfdir=/home/amk/Bureau/IFNTI/BD-DATA/installation/etc/
+./configure --prefix=/home/amk/Bureau/IFNTI/BD-DATA/installation/pgsql/ --with-pgport=5437 --exec-prefix=/home/amk/Bureau/IFNTI/BD-DATA/installation/pgsql/ --bindir=/home/amk/Bureau/IFNTI/BD-DATA/installation/bin/ --localedir=/home/amk/Bureau/IFNTI/BD-DATA/installation/pgsql/src --docdir=/home/amk/Bureau/IFNTI/BD-DATA/installation/pgsql/doc/ --sysconfdir=/home/amk/Bureau/IFNTI/BD-DATA/installation/etc/
+make
+sudo make install
+sudo make install-world
+sudo useradd -r postgres5
+ls
+cd ..
+ls
+chown -R postgres5 installation/pgsql/
+sudo chown -R postgres5 installation/pgsql/
+su postgres5
+sudo su postgres5
+cd installation/pgsql/
+ls
+cd ..
+ls
+sudo su postgres5
+cd ..
+sudo chown -R postgres5 installation/pgsql/
+sudo chown -R postgres5 installation/pgsql
+sudo chown -R postgres5 installation/
+sudo su postgres5
+mkdir installation/pgsql/data
+ls installation/pgsql/
+sudo su postgres5
+cd
+/home/amk/Bureau/IFNTI/BD-DATA/installation/bin/postgres -D /home/amk/Bureau/IFNTI/BD-DATA/installation/pgsql/data/ >logfile 2>&1 &
+ls /home/amk/Bureau/IFNTI/BD-DATA/installation/pgsql/data/
+ls /home/amk/Bureau/IFNTI/BD-DATA/installation/pgsql/
+ls /home/amk/Bureau/IFNTI/BD-DATA/installation/pgsql/data/
+sudo su postgres5
+/home/amk/Bureau/IFNTI/BD-DATA/installation/bin/postgres -D /home/amk/Bureau/IFNTI/BD-DATA/installation/pgsql/data/ >logfile 2>&1 &
+ls 
+/home/amk/Bureau/IFNTI/BD-DATA/installation/bin/postgres -D /home/amk/Bureau/IFNTI/BD-DATA/installation/pgsql/data/
+ls /home/amk/Bureau/IFNTI/BD-DATA/installation/
+/home/amk/Bureau/IFNTI/BD-DATA/installation/bin/pg_ctl start -D /home/amk/Bureau/IFNTI/BD-DATA/installation/pgsql/data/
+sudo su postgres2
+sudo /home/amk/Bureau/IFNTI/BD-DATA/installation/bin/pg_ctl start -D /home/amk/Bureau/IFNTI/BD-DATA/installation/pgsql/data/
+sudo
+sudo su
+sudo su postgres2
+sudo su postgres5
+/home/amk/Bureau/IFNTI/BD-DATA/installation/bin/psql test
+/home/amk/Bureau/IFNTI/BD-DATA/installation/bin/psql testjdbc 
+/home/amk/Bureau/IFNTI/BD-DATA/installation/bin/psql 
+psql
+/home/amk/Bureau/IFNTI/BD-DATA/installation/bin/psql test
+sudo su postgres5
+/home/amk/Bureau/IFNTI/BD-DATA/installation/bin/psql test
+sudo su postgres5
+ls
+ps -ef
+sudo kill 32082
+ps -ef
+tar -xvf postgresql-12.9.tar.gz 
+poweroff 
+sudo poweroff 
+sudo su postgres5
+/home/amk/Bureau/IFNTI/BD-DATA/installation/bin/psql amk
+sudo su postgres5
+/home/amk/Bureau/IFNTI/BD-DATA/installation/bin/psql amk
+psql gestion_stock 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java -d classes/
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+psql
+psql gestion_stock 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java -d classes/
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java -d classes/
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+psql gestion_stock 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java -d classes/
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+psql gestion_stock 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java -d classes/
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+psql gestion_stock 
+javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java -d classes/
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+psql gestion_stock 
+javac -d classes/ -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+psql gestion_stock 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+psql gestion_stock 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+psql gestion_stock 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+psql gestion_stock 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+psql gestion_stock 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+psql gestion_stock 
+javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
+psql gestion_stock 
