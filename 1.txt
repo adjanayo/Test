@@ -290,14 +290,6 @@ psql
 nautilus ssh://amk@192.168.60.189
 nano TP2.adoc 
 nano ddl_matable_2.sql 
-psql 
-psql -U user1 amk 
-psql -U user2 amk 
-psql -U user1 amk 
-psql -U user3 amk 
-psql -U user2 amk 
-psql -U user3 amk 
-psql 
 psql -U user2 amk 
 nano ddl_matable_2.sql 
 psql -U user2 amk 
@@ -1942,30 +1934,7 @@ ps -ef
 tar -xvf postgresql-12.9.tar.gz 
 poweroff 
 sudo poweroff 
-sudo su postgres5
-/home/amk/Bureau/IFNTI/BD-DATA/installation/bin/psql amk
-sudo su postgres5
-/home/amk/Bureau/IFNTI/BD-DATA/installation/bin/psql amk
-psql gestion_stock 
-javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java -d classes/
-java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
-psql
-psql gestion_stock 
-javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java -d classes/
-java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
-javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java -d classes/
-java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
-psql gestion_stock 
-javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java -d classes/
-java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
-psql gestion_stock 
-javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java -d classes/
-java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
-psql gestion_stock 
-javac -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java -d classes/
-java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
-psql gestion_stock 
-javac -d classes/ -cp classes/:src/postgresql-42.2.18.jar -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
+
 java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
 javac -d classes/ -sourcepath src/ src/gestion_stocks/controlleur/Main.java 
 java -cp classes:src/postgresql-42.2.18.jar gestion_stocks.controlleur.Main 
