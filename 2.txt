@@ -16,26 +16,29 @@ nano /etc/hosts
 ps ax|grep postgres
 cd /etc/postgresql/10/main/
 sudo nano pg_hba.conf
-cd /etc/postgresql/10/main/
-sudo /etc/init.d/postgresql restart 
-psql -U alpha -h 127.0.0.1 mabase
-sudo /etc/init.d/postgresql restart 
-psql -U alpha -h 127.0.0.1 mabase
-reboot 
-cd /etc/postgresql/10/main/
-sudo nano pg_hba.conf
-sudo /etc/init.d/postgresql restart 
-psql -U alpha -h 127.0.0.1 mabase
-sudo /etc/init.d/postgresql restart 
-psql -U alpha -h 127.0.0.1 mabase
-sudo /etc/init.d/postgresql restart 
-psql -U alpha -h 127.0.0.1 mabase
-psql -U user1 -h 127.0.0.1 mabase
-psql -U user3 -h 127.0.0.1 mabase
-psql -U user2 -h 127.0.0.1 mabase
-sudo /etc/init.d/postgresql restart 
-psql -U user2 -h 127.0.0.1 mabase
-sudo /etc/init.d/postgresql restart 
+
+
+
+
+
+allo allo allo allo allo allo allo allo allo allo allo allo allo allo allo allo
+allo allo allo allo allo allo allo allo allo allo allo allo allo allo allo allo
+
+allo allo allo allo allo allo allo allo allo allo allo allo allo allo allo allo
+allo allo allo allo allo allo allo allo
+allo allo allo allo allo allo allo allo
+allo allo allo allo allo allo allo allo
+allo allo allo allo allo allo allo allo
+allo allo allo allo allo allo allo allo
+allo allo allo allo allo allo allo allo
+allo allo allo allo allo allo allo alloallo allo allo allo allo allo allo allo
+
+alhasan à toi
+🖕️
+🖕️
+🖕️
+
+stgresql restart 
 psql -U user2 -h 127.0.0.1 mabase
 sudo nano /etc/hosts
 reboot 
